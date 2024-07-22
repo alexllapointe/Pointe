@@ -1,8 +1,20 @@
-# React + Vite
+# Pointe
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a preview of pointe's landing page. This project is a work in progress.
 
-Currently, two official plugins are available:
+The dashboard can be accessed by navigating to '/dashboard'.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
+https://pointedev.netlify.app/
+
+
+
+Dashboard Desktop Preview:
+
+https://gyazo.com/2066b6fa904c85fe1b3b8803ba41fe9c
+
+Dashboard Mobile Preview: 
+
+https://gyazo.com/2066b6fa904c85fe1b3b8803ba41fe9c
+
